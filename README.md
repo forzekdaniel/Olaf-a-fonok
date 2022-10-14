@@ -1,1 +1,1 @@
-# solo-carry
+Nincs mit olvasni sorry
