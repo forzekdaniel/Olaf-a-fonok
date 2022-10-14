@@ -1,5 +1,5 @@
 Trello:
-https://trello.com/b/A0qa3XLS/solo-carry-ikt-project-1
+https://trello.com/b/A0qa3XLS/olaf-a-f%C3%B6n%C3%B6k-ikt-project-1
 
 Github:
 https://github.com/forzekdaniel/Olaf-a-fonok
