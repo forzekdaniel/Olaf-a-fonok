@@ -1,10 +1,10 @@
-Neumann János
-1903. december 28. született Budapesten. 1957. február 8. hallt meg Amerikában 53 évesen. Magyar születésû matematikus volt. Édesapja ügyvédként dolgozott Budapesten, utána egy bankhoz került jogtanácsosi pozícióba, majd pedig a bank igazgatói székébe. Édesanyja a háztartást vezette és fiait nevelte. Neumann János késõbb amikor kiköltözött külföldre átnevezte magát Johann von Neumannra majd John von Neumannra. Gyerekként már fiatalon tanult németül és franciául, majd késõbb tanulta a latint és az ógörögöt. Felesége Kövesi Marietta, akitõl született egy gyermeke. Neumann foglalkozott Kvantummechanikával és Közgazdaságtannal.
-Iskolái
-Neumann már tízéves kora elõtt csodagyereknek számított, majd 1913-ban szülei beíratták a híres fasori evangélikus fõgimnáziumba. Utána beiratkozott a Budapesti Tudományegyetem matematika szakára. Apja kívánságára Zürichbe ment, hogy a Zürichi Mûszaki Egyetemen tanuljon.
+Neumann JÃ¡nos
+1903. december 28. szÃ¼letett Budapesten. 1957. februÃ¡r 8. hallt meg AmerikÃ¡ban 53 Ã©vesen. Magyar szÃ¼letÃ©sÅ± matematikus volt. Ã‰desapja Ã¼gyvÃ©dkÃ©nt dolgozott Budapesten, utÃ¡na egy bankhoz kerÃ¼lt jogtanÃ¡csosi pozÃ­ciÃ³ba, majd pedig a bank igazgatÃ³i szÃ©kÃ©be. Ã‰desanyja a hÃ¡ztartÃ¡st vezette Ã©s fiait nevelte. Neumann JÃ¡nos kÃ©sÅ‘bb amikor kikÃ¶ltÃ¶zÃ¶tt kÃ¼lfÃ¶ldre Ã¡tnevezte magÃ¡t Johann von Neumannra majd John von Neumannra. GyerekkÃ©nt mÃ¡r fiatalon tanult nÃ©metÃ¼l Ã©s franciÃ¡ul, majd kÃ©sÅ‘bb tanulta a latint Ã©s az Ã³gÃ¶rÃ¶gÃ¶t. FelesÃ©ge KÃ¶vesi Marietta, akitÅ‘l szÃ¼letett egy gyermeke. Neumann foglalkozott KvantummechanikÃ¡val Ã©s KÃ¶zgazdasÃ¡gtannal.
+IskolÃ¡i
+Neumann mÃ¡r tÃ­zÃ©ves kora elÅ‘tt csodagyereknek szÃ¡mÃ­tott, majd 1913-ban szÃ¼lei beÃ­rattÃ¡k a hÃ­res fasori evangÃ©likus fÅ‘gimnÃ¡ziumba. UtÃ¡na beiratkozott a Budapesti TudomÃ¡nyegyetem matematika szakÃ¡ra. Apja kÃ­vÃ¡nsÃ¡gÃ¡ra ZÃ¼richbe ment, hogy a ZÃ¼richi MÅ±szaki Egyetemen tanuljon.
 Amerika
-1930-ban meghívták vendégprofesszornak az Egyesült Államokba, a Princetoni Egyetemre. A második világháború ideje alatt õ is bekapcsolódott a haditechnikai kutatásokba. Rész vett az elsõ atombomba megépítésévek kapcsolatos titkos programmal.
-A számítógép tervezése
-Az elektronikus számítógépek logikai tervezésében kiemelkedõ érdemeket szerzett. Ennek alapvetõ gondolatait – a kettes számrendszer alkalmazása, memória, programtárolás, utasítás rendszer ezt Neumann-elveként emlegetjük. Mai napig ez az elv alapján készülnek a számítógépek. 
-Halála
-1955. augusztus 15-én csontrákra utaló elváltozást találtak a nyakában, ami feltehetõleg a korábban diagnosztizált prosztatarák áttéte volt. A következõ év elején állapota tovább romlott, és kerekesszékbe kényszerült. 1956 áprilisában kórházba került, amit korai haláláig már nem hagyhatott el. 1957. február 8-án halt meg Washingtonban, végsõ nyughelye Princetonban van.
+1930-ban meghÃ­vtÃ¡k vendÃ©gprofesszornak az EgyesÃ¼lt Ãllamokba, a Princetoni Egyetemre. A mÃ¡sodik vilÃ¡ghÃ¡borÃº ideje alatt Å‘ is bekapcsolÃ³dott a haditechnikai kutatÃ¡sokba. RÃ©sz vett az elsÅ‘ atombomba megÃ©pÃ­tÃ©sÃ©vek kapcsolatos titkos programmal.
+A szÃ¡mÃ­tÃ³gÃ©p tervezÃ©se
+Az elektronikus szÃ¡mÃ­tÃ³gÃ©pek logikai tervezÃ©sÃ©ben kiemelkedÅ‘ Ã©rdemeket szerzett. Ennek alapvetÅ‘ gondolatait Â– a kettes szÃ¡mrendszer alkalmazÃ¡sa, memÃ³ria, programtÃ¡rolÃ¡s, utasÃ­tÃ¡s rendszer ezt Neumann-elvekÃ©nt emlegetjÃ¼k. Mai napig ez az elv alapjÃ¡n kÃ©szÃ¼lnek a szÃ¡mÃ­tÃ³gÃ©pek. 
+HalÃ¡la
+1955. augusztus 15-Ã©n csontrÃ¡kra utalÃ³ elvÃ¡ltozÃ¡st talÃ¡ltak a nyakÃ¡ban, ami feltehetÅ‘leg a korÃ¡bban diagnosztizÃ¡lt prosztatarÃ¡k Ã¡ttÃ©te volt. A kÃ¶vetkezÅ‘ Ã©v elejÃ©n Ã¡llapota tovÃ¡bb romlott, Ã©s kerekesszÃ©kbe kÃ©nyszerÃ¼lt. 1956 Ã¡prilisÃ¡ban kÃ³rhÃ¡zba kerÃ¼lt, amit korai halÃ¡lÃ¡ig mÃ¡r nem hagyhatott el. 1957. februÃ¡r 8-Ã¡n halt meg Washingtonban, vÃ©gsÅ‘ nyughelye Princetonban van.
