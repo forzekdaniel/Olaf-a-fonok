@@ -1,3 +1,5 @@
+google forms:
+https://forms.gle/isUT7feHn6WZqNYy5
 Trello:
 https://trello.com/invite/olafafnk/c3401acb561987e49f4c7b533a6996e2
 
